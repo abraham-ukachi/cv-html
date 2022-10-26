@@ -31,7 +31,7 @@ Here is a list of all the jobs for to this project, their main `.html`  files, a
 
 ## Jour 1 - HTML
 
-This is just a **static** version of my CV. See [`ab-cv-app`](https://github.com/abraham-ukachi/ab-cv-app), to learn more about the **progressive** or **Lit** version of my CV with redux enabled.
+This is just a **static** version of my CV. Go to [`ab-cv-app`](https://github.com/abraham-ukachi/ab-cv-app), to see the **progressive** or **Lit** version of my CV with redux enabled.
 
 ### Structure
 
@@ -64,6 +64,7 @@ open cv-abraham-ukachi.html
 
 ### TODOs
 
+- [ ] Minify & resize all `svg` files in the [**icons**](./assets/icons/) folder.
 - [ ] Optimize [**cv-abraham-ukachi.html**](./cv-abraham-ukachi.html) file
 - [ ] Remove unnecessary comments
 
