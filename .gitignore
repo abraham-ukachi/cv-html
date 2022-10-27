@@ -105,3 +105,9 @@ dist
 
 # Vim .swp files
 *.swp
+
+# DS Store file
+.DS_Store
+
+# trash folder
+trash/
