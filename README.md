@@ -1,7 +1,7 @@
 # `cv-html`
 > IMPORTANT: This is a work in progress and subject to major changes until version 1.0
 
-A school project introducing us to the **WEB** by creating our "first" HTML page as a [CV](#CV). But, as I've already got a tiny bit of experience in the subject, I also decided to turn my *Curriculum Vitae* (CV) into  a **Progressive Web App** named [ab-cv-app](https://github.com/abraham-ukachi/ab-cv-app) which includes a [color scheme](https://github.com/abraham-ukachi/ab-cv-app#Color-scheme), [topography](https://github.com/abraham-ukachi/ab-cv-app#Topogrphy), [shape](https://github.com/abraham-ukachi/ab-cv-app#Shape) and [shadow](https://github.com/abraham-ukachi/ab-cv-app#Shadow).
+A school project introducing me to the **WEB** by creating my "first" HTML page as a [CV](#CV). But, as I've already got a tiny bit of experience in the subject. So, I  decided to turn my *Curriculum Vitae* (CV) into  a **Progressive Web App** named [ab-cv-app](https://github.com/abraham-ukachi/ab-cv-app) which includes a [color scheme](https://github.com/abraham-ukachi/ab-cv-app#Color-scheme), [topography](https://github.com/abraham-ukachi/ab-cv-app#Topogrphy), [shape](https://github.com/abraham-ukachi/ab-cv-app#Shape) and [shadow](https://github.com/abraham-ukachi/ab-cv-app#Shadow).
 
 
 ## Description
@@ -19,19 +19,19 @@ These are a couple of the main requirements for this school project:
 ## Jobs
 > MOTTO: I'll always do more 😜
 
-The official deadline - according to [intra](https://intra.laplateforme.io) - was **25/10/2022 à 11h15**.
+The official deadline - according to [intra](https://intra.laplateforme.io) - was **25/10/2022 at 11h15**.
 Here is a list of all the jobs for to this project, their main `.html`  files, and current status:
 
 | No. | Name | Scripts | Status |
 | --- | ---- | ------ | ------ |
-| 1 | [*`Jour 1 - HTML`*](#Jour-1-HTML) | **cv-abraham-ukachi.html** | _*In progress*_ |
+| 1 | [*`Jour 1 - HTML`*](#Jour-1---HTML) | **cv-abraham-ukachi.html** | [Done](./cv-abraham-ukachi.html)\* |
 
 > NOTE: (\*) = still needs to be updated
 
 
 ## Jour 1 - HTML
 
-This is just a **static** version of my CV. Go to [`ab-cv-app`](https://github.com/abraham-ukachi/ab-cv-app), to see the **progressive** or **Lit** version of my CV with redux enabled.
+This is just a **static** version of my CV. Go to [`ab-cv-app`](https://github.com/abraham-ukachi/ab-cv-app), to see the **progressive** or **Lit** version of my CV with **redux** enabled.
 
 ### Structure
 
@@ -64,6 +64,7 @@ open cv-abraham-ukachi.html
 
 ### TODOs
 
+- [ ] Rename `pic.png` to `avatar.png`
 - [ ] Minify & resize all `svg` files in the [**icons**](./assets/icons/) folder.
 - [ ] Optimize [**cv-abraham-ukachi.html**](./cv-abraham-ukachi.html) file
 - [ ] Remove unnecessary comments
